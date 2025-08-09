@@ -1,3 +1,5 @@
+/** @jsxImportSource react */
+
 'use strict';
 
 function App() {
