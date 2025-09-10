@@ -1,6 +1,4 @@
-/** @jsxImportSource react */
 
-'use strict';
 
 function App() {
   const [loggedIn, setLoggedIn] = React.useState(false);
